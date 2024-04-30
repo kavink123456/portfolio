@@ -1,0 +1,34 @@
+.h-one {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0e0d0c;
+    font-family: marriweather;
+}
+
+.cloud2 {
+    position:absolute;
+    right: 10%;
+    height: 200px;
+    width: 400px;
+}
+
+.moutain {
+    position:absolute;
+    right: 50%;
+   width: 500px;
+    height: 300px;
+}
+
+.top-container {
+    background-color: lightskyblue;
+}
+.mid-container {
+    background-color: lightskyblue;
+
+}
+
+p {
+position: absolute;
+bottom: 5%;
+
+}
